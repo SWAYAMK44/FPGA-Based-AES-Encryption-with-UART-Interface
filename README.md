@@ -193,6 +193,10 @@ Outputs were compared with expected AES results.
 
 A Python script was used to interact with the FPGA via serial communication.
 
+# Python Test Script
+
+Pyserial
+
 Typical operations:
 
 • Send plaintext blocks  
